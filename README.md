@@ -3,8 +3,8 @@
 
 <div align="center">
 <a href="https://github.com/kaiky-botelho">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Franca&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Franca&layout=compact&langs_count=7&hide=contribs,issues&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiky-botelho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiky-botelho&layout=compact&langs_count=7&hide=contribs,issues&theme=tokyonight"/>
 
 </div>
 <br>
@@ -37,7 +37,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!--
-**Joao-Franca/Joao-Franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kaiky-botelho/Kaiky-otelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
