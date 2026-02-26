@@ -55,8 +55,8 @@ Atualmente estou aprofundando meus conhecimentos em **Back-End com Java**, expan
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaiky-botelho&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiky-botelho&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaiky-botelho&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiky-botelho&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
