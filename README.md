@@ -63,4 +63,4 @@ Atualmente estou aprofundando meus conhecimentos em **Back-End com Java**, expan
 
 ## 🐍 Contribuições animadas
 
-![Snake animation](https://raw.githubusercontent.com/kaiky-botelho/kaiky-botelho/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
