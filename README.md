@@ -1,4 +1,4 @@
-# Olá!! Me chamo Kaiky Botelho de Faria, e sou estudante em Desenvolvimento de Sistemas no SENAI! 👋
+# Olá!! Me chamo Kaiky Botelho de Faria, e sou estudante de Engenharia de Software 👋
 
 <div align="center">
   <a href="https://github.com/kaiky-botelho">
